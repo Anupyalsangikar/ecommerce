@@ -1,2 +1,2 @@
 # ecommerce
-This is example E-Commerce using MERN
+This is E-Commerce under development using MERN and Redux.
